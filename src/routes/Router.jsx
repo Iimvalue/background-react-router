@@ -20,7 +20,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Background img="" />,
+        element: <Background img="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Fc%2Fe%2F6%2F320156.jpg&f=1&nofb=1&ipt=2e7376b7b252348beba3a1c4dccaf0df45976ec88c1f79ab3cdac0c235329d4d" />,
       },
       {
         path: "/space",
